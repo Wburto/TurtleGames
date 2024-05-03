@@ -39,29 +39,24 @@ and sales? Then the core business question is split into two parts:
 - **Predictive Modelling for Strategic Forecasting**: MLR models were built to accurately predict future sales trends based on regional sales data. This not only showcased the strong relationship between regional and global sales but also equipped Turtle Games with the tools for strategic resource allocation and sales strategy optimisation.
     
     - A graphic made in R exploring national sales data compared to global sales data.
-    - ![Rplot01](https://github.com/Wburto/TurtleGames/assets/132344378/2d649e86-8573-4874-aaa3-843a5a0e5699)
-    
+    - ![Rplot01](https://github.com/Wburto/TurtleGames/assets/132344378/91ca67cf-b975-47f6-8931-c06b962cd54e)
+
 
 ## **Key Insights and Recommendations:**
 
 - I curated a robust predictive model with 97% accuracy, linking regional sales to global sales, underscoring the significant predictive power of NA and EU market performance on global outcomes, suggesting strategic focus areas for market investment and resource allocation. I also created an interactive Shiny App interface, enabling stakeholders to intuitively utilise the predictive model for strategic planning without technical expertise, enhancing decision-making efficiency.
-    - Please explore the interactive Plotly plot exploring my MLR model results that is referenced in the video later on.
+    - Please explore the interactive Plotly plot in the files above exploring my MLR model results that is referenced in the video later on.
 
         
 - I identified and addressed data challenges including heteroscedasticity and multicollinearity, emphasising the need for precise data handling, further refined data and advanced statistical techniques to refine predictive accuracy.
 - I Highlighted the critical role of outliers in skewing sales data, necessitating sophisticated outlier management strategies to ensure model reliability and real-world applicability.
 - I discovered key insights into customer feedback using techniques like word clouds. While the report showed an overall positive sentiment, attention needs to be paid to harnessing recommendations from positive/neutral feedback. Also encouraged investing in multilingual NLP tools and proactively investigating negative customer feedback.
     
-    ![A word cloud from normalised positive reviews of products using Vader as the model. ](![image](https://github.com/Wburto/TurtleGames/assets/132344378/9a8d9f4c-a961-4b14-8143-16c4ab91bef6)
+    - A word cloud from normalised positive reviews of products using Vader as the model.
+    - ![WordCloud](https://github.com/Wburto/TurtleGames/assets/132344378/83ed623a-02f3-4abb-8157-58d2300702ea)
 
-    
-    A word cloud from normalised positive reviews of products using Vader as the model. 
-    
 - I noted the evolving market dynamics for regions. For instance PlayStation, transitioning from a strong North American preference (41% market share for the original PlayStation compared to Europe's 31%) to a dominant position in Europe for the PlayStation V (45% of sales in Europe and 42% for the rest of the world, compared to North America's 13%).
-    - Download the interactive stacked bar chart from the file below that is referenced in the presentation video at the end.
-        
-        [Platform graphic Plotly.html](https://prod-files-secure.s3.us-west-2.amazonaws.com/4394a732-f9f1-4e08-94ea-113fc19ce7c0/62717405-89d7-41a0-bd32-c33ad6438113/Platform_graphic_Plotly.html)
-        
+    - Download the interactive stacked bar chart from the file above that is referenced in the presentation video at the end.
 
 ## **Professional Development and Project Impact:**
 
