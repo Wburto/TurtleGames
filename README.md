@@ -19,7 +19,8 @@ and sales? Then the core business question is split into two parts:
 
 - **Customer Segmentation**: Leveraging Python and R, I performed multiple linear regression (MLR), K-means clustering, and natural language processing (NLP) on Turtle Games' customer base data. This revealed factors influencing customer loyalty points and facilitated the segmentation of customers into distinct spending behaviour groups for targeted marketing strategies.
 
-![K means clustering of two variables that showed promising correlation](https://prod-files-secure.s3.us-west-2.amazonaws.com/4394a732-f9f1-4e08-94ea-113fc19ce7c0/ad425de7-ce9e-4405-b9d6-153e3fe566c7/Untitled.png)
+- K means clustering of two variables that showed promising correlation
+    - ![image](https://github.com/Wburto/TurtleGames/assets/132344378/31e284e2-c990-4324-9e8f-308415ddc25a)
 
 K means clustering of two variables that showed promising correlation
 
