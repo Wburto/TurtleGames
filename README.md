@@ -52,7 +52,8 @@ A heatmap of customer information variables
 - I Highlighted the critical role of outliers in skewing sales data, necessitating sophisticated outlier management strategies to ensure model reliability and real-world applicability.
 - I discovered key insights into customer feedback using techniques like word clouds. While the report showed an overall positive sentiment, attention needs to be paid to harnessing recommendations from positive/neutral feedback. Also encouraged investing in multilingual NLP tools and proactively investigating negative customer feedback.
     
-    ![A word cloud from normalised positive reviews of products using Vader as the model. ](https://prod-files-secure.s3.us-west-2.amazonaws.com/4394a732-f9f1-4e08-94ea-113fc19ce7c0/585a2b48-c398-420a-a0f9-a563d65dfa7f/Untitled.png)
+    ![A word cloud from normalised positive reviews of products using Vader as the model. ](![image](https://github.com/Wburto/TurtleGames/assets/132344378/9a8d9f4c-a961-4b14-8143-16c4ab91bef6)
+
     
     A word cloud from normalised positive reviews of products using Vader as the model. 
     
