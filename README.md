@@ -18,19 +18,22 @@ and sales? Then the core business question is split into two parts:
 ## **Analytical Approach Highlights**:
 
 - **Customer Segmentation**: Leveraging Python and R, I performed multiple linear regression (MLR), K-means clustering, and natural language processing (NLP) on Turtle Games' customer base data. This revealed factors influencing customer loyalty points and facilitated the segmentation of customers into distinct spending behaviour groups for targeted marketing strategies.
-
-- K means clustering of two variables that showed promising correlation
+    - K means clustering of two variables that showed promising correlation
     - ![image](https://github.com/Wburto/TurtleGames/assets/132344378/31e284e2-c990-4324-9e8f-308415ddc25a)
 
-K means clustering of two variables that showed promising correlation
+    - Group 1 - 774 observations 39% - A signifcant amount of total observations that operates around the middle of both variables suggesting arguably the strongest market segment to target. Worth considering other factors to flesh out. This is a high priority and the bread and butter of sales. Worth noting that the income range of this group seems to fit the mean of 48 well. The spending_score range fits the mean of 50 well too.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4394a732-f9f1-4e08-94ea-113fc19ce7c0/dd7dd676-96d2-46cc-a358-297e1239853f/Untitled.png)
+    - Group 0 - 356 observations 18% - Group 0 offers the golden goose of high income earners who also have a high spending_score. Even though they amount to jsut under half group of group 1 they are spending a relitively high amount so are still a relevant segment who are actively engaging and should be proritised. This is a high priority.
 
-![Analysis and exploration of the clusters above](https://prod-files-secure.s3.us-west-2.amazonaws.com/4394a732-f9f1-4e08-94ea-113fc19ce7c0/3c6f48e4-8b1d-44d4-9221-f7977dceeaa1/2547e3ec-d3ab-45cd-a4ef-8c3dd135af9b.png)
+    - Group 2 - 330 observations 17% - Group 2 shows a segement that has potential to earn a higher spending score with more income available. As such, marketing needs to understand and address why this group isn't achiveing it's spending score potential. This is a high priorty to turn those Group 2 customers into Group 3.
 
-Analysis and exploration of the clusters above
+    - Group 4 - 271 observations 14% - Group 4 show the least potential of all groups and also only contribute 14% of total observations. While there is always potential Group 4 should be seen as a low priority
 
-![A heatmap of customer information variables](https://prod-files-secure.s3.us-west-2.amazonaws.com/4394a732-f9f1-4e08-94ea-113fc19ce7c0/b0c227bb-fe51-4b49-bbbb-20321770f95f/Untitled.png)
+    - Group 3 - 269 observations 13% - Group 3 show great potential again and have proven loyalty through their spending score in spite of low income. It is worth considering other factors in Group 3's income to see if there is any future benefit to targeting them. For instance if Group 3 doesn't earn much income because of Age being a contributing factor, working on retaining that base as customers and rewarding loyalty will only serve as positive if they grow older and their salaries grow with them.
+   
+    - A heatmap of customer information variables
+    - ![image](https://github.com/Wburto/TurtleGames/assets/132344378/e6d0aba2-aab2-458f-a73f-261d30438ad3)
+
 
 A heatmap of customer information variables
 
